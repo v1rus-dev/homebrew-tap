@@ -1,6 +1,6 @@
 cask "gitwarp" do
-  version "0.4.0"
-  sha256 "ebd030f113b6385b7cab34675ff8433e116345d7c8efb37606789a3229a85a0d"
+  version "0.5.0"
+  sha256 "549fbf32b504d13bab771a193a4f681023c2079f67a9cc214cb693010b594771"
 
   url "https://github.com/v1rus-dev/GitWarp/releases/download/v#{version}/gitwarp-#{version}-macos-aarch64.dmg"
   name "GitWarp"
